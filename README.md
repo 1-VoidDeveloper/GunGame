@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- A computer with Windows OS to run the executable file
+- A computer to run the executable file
 
 ## Running the Game
 
